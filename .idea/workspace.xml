@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18b990b3-2c06-4670-ad26-3cecfa8d5849" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Pfay/MyProduct/Block/Product/view.php" afterPath="$PROJECT_DIR$/app/code/local/Pfay/MyProduct/Block/Product/view.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +28,7 @@
       <file leaf-file-name="view.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/code/local/Pfay/MyProduct/Block/Product/view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="1" selection-start="186" selection-end="186" vertical-scroll-proportion="0.20521173" vertical-offset="0" max-vertical-offset="614">
+            <state line="5" column="41" selection-start="175" selection-end="175" vertical-scroll-proportion="0.1465798" vertical-offset="0" max-vertical-offset="614">
               <folding />
             </state>
           </provider>
@@ -86,7 +84,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,6 +244,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,6 +335,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/code/local/Pfay/MyProduct/Block/Product/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="234">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mage">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.6848674" vertical-offset="439" max-vertical-offset="1080" />
@@ -359,7 +364,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Pfay/MyProduct/Block/Product/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="1" selection-start="186" selection-end="186" vertical-scroll-proportion="0.20521173" vertical-offset="0" max-vertical-offset="614">
+        <state line="5" column="41" selection-start="175" selection-end="175" vertical-scroll-proportion="0.1465798" vertical-offset="0" max-vertical-offset="614">
           <folding />
         </state>
       </provider>
